@@ -1,0 +1,6 @@
+langchain>=0.1.0
+llama-cpp-python>=0.2.20
+nomic-embed-text>=0.1.0
+chromadb>=0.4.22
+streamlit>=1.26.0
+PyPDF2>=3.0.1
